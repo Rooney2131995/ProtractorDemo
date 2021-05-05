@@ -23,7 +23,7 @@ describe('demo calculator test', function(){
 
         calculatorHome.verifyResult('11');
 
-        browser.sleep(2000);
+        browser.sleep(3000);
     })
 
 
